@@ -1,4 +1,9 @@
-## Hi there 👋
+## Introduction
+안녕하세요 영남대학교 재학 중인 임은빈입니다.
+
+## Links
+E-mail - eunv2n@gmail.com
+
 
 <!--
 **eunv2n/eunv2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
